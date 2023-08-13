@@ -1,0 +1,23 @@
+2023-08-12 01:59:05,921 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 01:59:08,152 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 01:59:40,025 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 02:00:19,919 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 02:00:22,239 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 02:34:50,238 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 02:34:52,570 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 03:49:38,244 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 03:49:41,279 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 04:46:46,241 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 04:46:49,143 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 04:46:52,293 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario Three test started
+2023-08-12 04:47:03,038 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - scenarioThree Test Failed!!:java.lang.reflect.InvocationTargetException
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a845c0970a38401a964d8ba5bd2d39e1, actions {actions=[org.openqa.selenium.interactions.Sequence@40a1916d]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: C:\Users\RAJITH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50152}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50152/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a845c0970a38401a964d8ba5bd2d39e1
+2023-08-12 04:54:15,884 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 04:54:19,085 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
+2023-08-12 04:55:30,295 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test started
+2023-08-12 04:55:33,290 [main] INFO com.vihara.webapiautomation.Web.testCases.BaseUITest - Scenario One test finished
